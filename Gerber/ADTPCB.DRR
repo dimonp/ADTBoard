@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ADTPCB.PcbDoc   10/02/2013  5:45:07 p. m.
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ADTPCB.TXT
+EIA File   : ADTPCB.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        16mil (0.4064mm)         Round          123              20.41 Inch (518.43 mm)
+T2        28mil (0.7112mm)         Round          4                0.20 Inch (5.18 mm)
+T3        35.4mil (0.89916mm)      Round          92               13.96 Inch (354.65 mm)
+---------------------------------------------------------------------------
+Totals                                            219              34.58 Inch (878.26 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
